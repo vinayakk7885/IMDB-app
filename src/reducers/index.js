@@ -20,6 +20,7 @@ export function movies( state = initialMoviesState, action){
     //     }
     // }
     // return state;
+    // ******//
     switch (action.type){
 
         case ADD_MOVIES:
